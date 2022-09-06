@@ -32,7 +32,7 @@ Right-click on [Makefile](./Makefile) and choose Run
 ## How to access application
 
 Pattern: http://$namespace.$serviceName.$clusterPublicIP.nip.io
-
+testing
 Voter: [default.voter.10.10.0.10.nip.io](http://default.voter.10.10.0.10.nip.io)
 
 ElectionCommission: [default.ec.10.10.0.10.nip.io](default.ec.10.10.0.10.nip.io)
